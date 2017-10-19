@@ -4,6 +4,8 @@ This Actions On Google client library makes it easy to create your apps for the 
 
 The client library supports both the Actions SDK webhook and Dialogflow fulfillment.
 
+[![Build](https://travis-ci.org/silvolu/actions-on-google.svg?branch=master)](https://travis-ci.org/silvolu/actions-on-google?branch=master)
+
 ## Setup Instructions
 
 ### Actions SDK
